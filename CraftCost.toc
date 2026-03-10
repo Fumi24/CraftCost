@@ -1,0 +1,8 @@
+## Interface: 120000, 120001
+## Title: CraftCost
+## Notes: Displays the total reagent cost for the selected recipe in the Professions window.
+## Author:
+## Version: 1.0.0
+## LoadWith: Blizzard_Professions
+
+CraftCost.lua
