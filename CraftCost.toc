@@ -3,6 +3,7 @@
 ## Notes: Displays the total reagent cost for the selected recipe in the Professions window.
 ## Author:
 ## Version: 1.0.0
+## IconTexture: Interface\Icons\inv_12_profession_engineering_manufacturedparts_battery_purple
 ## LoadWith: Blizzard_Professions
 
 CraftCost.lua
